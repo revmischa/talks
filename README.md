@@ -2,7 +2,7 @@ Here you can find a collection of some talks I've prepared and given.
 
 I enjoy educating people about topics I find interesting and giving demos of useful tools and techniques that have made my life easier.
 
-If you'd like me to come talk somewhere, on one of the topics below or anything else, please feel free to [shoot me an email](mailto:me@mish.dev).
+If you'd like me to come talk somewhere, on one of the topics below or anything else, please feel free to [shoot me an email](mailto:me@mish.dev). You can find out more about what I'm interested in and playing with these days at [my blog](https://spiegelmock.com).
 
 
 ## Past Talks
