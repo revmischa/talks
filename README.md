@@ -22,7 +22,7 @@ A talk for software engineering students to inspire and give confidence in the b
 
 
 ### IoT: Security, Best Practices, Using The Cloud - [❑ Slides](slides/IoT_noVideo.pdf)
--  Presented at Unit City as their first public tech talk, Kyiv 2018
+-  Presented at [Unit City](http://unit.city) (their first public tech talk), Kyiv 2018
 
 Looking past the internet of things hype. A focus important aspects of internet of things security failures and best practices for building secure devices. How to build cloud-native serverless IoT applications using AWS.
 
