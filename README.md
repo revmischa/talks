@@ -7,6 +7,8 @@ If you'd like me to come talk somewhere, on one of the topics below or anything 
 
 ## Past Talks
 
+![Unit Factory](img/a.jpg)
+
 ### Serverless Application Architecture - [❑ Slides](slides/serverless.pdf)
 -  Presented at International Software Architect Club, Kyiv 2019
 -  Presented for Very Good Security engineering, Barcelona 2019
@@ -66,3 +68,5 @@ What is open source software? Why should you care about it?
 ### ProjectM: Open Source Music Visualization - [❑ Slides](slides/projectM_noVideo.pdf)
 
 A look at the open source music visualizer project - projectM. History, how it works, how I've contributed to it.
+
+![Unit City](img/b.jpg)
