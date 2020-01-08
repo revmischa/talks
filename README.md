@@ -17,6 +17,7 @@ A look at what serverless architecture means for application developers, benefit
 
 
 ### Getting Started As A Software Engineer - [❑ Slides](slides/getting-started-as-a-software-engineer.pdf)
+- Presented at Kyiv Polytechnic Institute, 2019
 - Presented at Unit Factory (Ecole42 School), Kyiv 2018
 - Presented at Projector Academy, Kyiv 2018
 
