@@ -10,11 +10,18 @@ If you'd like me to come talk somewhere, on one of the topics below or anything 
 ![Unit Factory](img/a.jpg)
 
 ### Serverless Application Architecture - [❑ Slides](slides/serverless.pdf)
+-  Presented in Wrocław, Poland 2020
 -  Presented at International Software Architect Club, Kyiv 2019
 -  Presented for Very Good Security engineering, Barcelona 2019
 
 A look at what serverless architecture means for application developers, benefits and limitations of serverless, and why you may or may not want to consider using AWS Lambda.
-
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=rXPwLZJ9l2M">
+     <img 
+      src="https://img.youtube.com/vi/rXPwLZJ9l2M/0.jpg" 
+      style="width:640;">
+      </a>
+    </div>
 
 ### Getting Started As A Software Engineer - [❑ Slides](slides/getting-started-as-a-software-engineer.pdf)
 - Presented at Kyiv Polytechnic Institute, 2019
