@@ -17,8 +17,8 @@ If you'd like me to come talk somewhere, on one of the topics below or anything 
 A look at what serverless architecture means for application developers, benefits and limitations of serverless, and why you may or may not want to consider using AWS Lambda.
 <div align="center">
       <a href="https://www.youtube.com/watch?v=rXPwLZJ9l2M">
-     <img 
-      src="https://img.youtube.com/vi/rXPwLZJ9l2M/0.jpg" 
+     <img
+      src="https://img.youtube.com/vi/rXPwLZJ9l2M/0.jpg"
       style="width:640;">
       </a>
     </div>
@@ -33,6 +33,13 @@ A talk for software engineering students to inspire and give confidence in the b
 
 ### Building A Real-World IoT Application From Start to Finish With AWS - [❑ Slides](slides/AWSIot2020.pdf)
 -  Presented at [AWS Bay Area Community Day 2020](https://awscommunityday.com/#speaker-mischaspiegelmock), Online 2020
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=vJ4Gjn0Bmi0">
+     <img
+      src="https://img.youtube.com/vi/vJ4Gjn0Bmi0/0.jpg"
+      style="width: 480;">
+      </a>
+    </div>
 
 
 ### IoT: Security, Best Practices, Using The Cloud - [❑ Slides](slides/IoT_noVideo.pdf)
