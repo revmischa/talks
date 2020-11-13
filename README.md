@@ -31,6 +31,10 @@ A look at what serverless architecture means for application developers, benefit
 A talk for software engineering students to inspire and give confidence in the beginning of their careers, look at how computers work, soft skills, cultural expectations, and all the other non-technical aspects of creating software as a professional.
 
 
+### Building A Real-World IoT Application From Start to Finish With AWS - [❑ Slides](slides/AWSIot2020.pdf)
+-  Presented at [AWS Bay Area Community Day 2020](https://awscommunityday.com/#speaker-mischaspiegelmock), Online 2020
+
+
 ### IoT: Security, Best Practices, Using The Cloud - [❑ Slides](slides/IoT_noVideo.pdf)
 -  Presented at [Unit City](http://unit.city) (their first public tech talk), Kyiv 2018
 
