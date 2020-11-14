@@ -5,7 +5,7 @@ I enjoy educating people about topics I find interesting and giving demos of use
 If you'd like me to come talk somewhere, on one of the topics below or anything else, please feel free to [shoot me an email](mailto:me@mish.dev). You can find out more about what I'm interested in and playing with these days at [my blog](https://spiegelmock.com).
 
 
-### Videos
+## Videos
 
 * [Building A Real-World IoT Application From Start to Finish With AWS](https://www.youtube.com/watch?v=vJ4Gjn0Bmi0)
 * [Serverless Application Architecture](https://www.youtube.com/watch?v=rXPwLZJ9l2M)
