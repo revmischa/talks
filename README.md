@@ -5,6 +5,14 @@ I enjoy educating people about topics I find interesting and giving demos of use
 If you'd like me to come talk somewhere, on one of the topics below or anything else, please feel free to [shoot me an email](mailto:me@mish.dev). You can find out more about what I'm interested in and playing with these days at [my blog](https://spiegelmock.com).
 
 
+### Videos
+
+* [Building A Real-World IoT Application From Start to Finish With AWS](https://www.youtube.com/watch?v=vJ4Gjn0Bmi0)
+* [Serverless Application Architecture](https://www.youtube.com/watch?v=rXPwLZJ9l2M)
+* [Intro to AWS Lambda](https://www.youtube.com/watch?v=bGzty_IUDP0)
+* [Basics of UNIX Sockets](https://www.youtube.com/watch?v=8TGV4zcd9k4)
+* [Linux Container Basics: Docker, Kubernetes](https://www.youtube.com/watch?v=3f5wWYLWOtQ)
+
 ## Past Talks
 
 ![Unit Factory](img/a.jpg)
