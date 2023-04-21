@@ -7,6 +7,7 @@ If you'd like me to come talk somewhere, on one of the topics below or anything 
 
 ## Videos
 
+* [Infrastructure as Code on AWS: CloudFormation and CDK Intro](https://www.youtube.com/watch?v=Lw1Q8DwEuMk)
 * [Intro to Solidity Smart Contracts](https://www.youtube.com/watch?v=nr5GyrdtL_U)
 * [Building A Real-World IoT Application From Start to Finish With AWS](https://www.youtube.com/watch?v=vJ4Gjn0Bmi0)
 * [Serverless Application Architecture](https://www.youtube.com/watch?v=rXPwLZJ9l2M)
